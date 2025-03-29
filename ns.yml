@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
+  namespace: default
   creationTimestamp: null
   labels:
     run: test
