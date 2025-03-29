@@ -5,7 +5,7 @@ metadata:
   labels:
     run: test
   name: test
-  namespace: testargo
+  namespace: testargo2
 spec:
   containers:
   - image: nginx
