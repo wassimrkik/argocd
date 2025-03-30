@@ -11,5 +11,5 @@ spec:
   - image: nginx
     name: test
     command:
-    - sleep
+    - "sleep"
     - 3600
